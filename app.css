@@ -10,7 +10,7 @@ body {
 h1 {
     font-size: 26px;
     text-align: center;
-    margin-bottom: 15px;
+    margin-bottom: 10px;
 }
 p {
     line-height: 1.5em;
@@ -24,16 +24,16 @@ em {
 #container {
     width: 660px;
     margin: 0 auto;
-    margin-top: 30px;
-    padding: 20px;
+    margin-top: 10px;
+    padding: 10px;
     background: #fbfbfb;
     border-radius: 3px;
     box-shadow: 0 1px 4px rgba(0,0,0,0.25);
 }
 #other {
     width: 660px;
-    margin: 20px auto;
-    padding: 20px;
+    margin: 10px auto;
+    padding: 10px;
 }
 #text-to-read {
     width: 638px;
@@ -52,7 +52,7 @@ em {
 #reading-screen {
     display: none;
     width: 660px;
-    height: 372px;
+    height: 377px;
     position: relative;
 }
 #word {
@@ -73,7 +73,7 @@ em {
     margin: 10px 0;
 }
 .row {
-    height: 30px;
+    height: 10px;
 }
 #wpm {
     float: left;
@@ -101,8 +101,8 @@ input[type="checkbox"] {
 }
 .btn {
     width: 100px;
-    padding: 7px 20px;
-    margin-right: 20px;
+    padding: 7px 10px;
+    margin-right: 10px;
     border: 1px solid #265757;
     border-radius: 3px;
     background: -webkit-linear-gradient(#5EB8B8, #4BA9A9);
