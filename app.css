@@ -22,7 +22,7 @@ em {
     color: #4BA9A9;
 }
 #container {
-    width: 560px;
+    width: 660px;
     margin: 0 auto;
     margin-top: 30px;
     padding: 20px;
@@ -31,7 +31,7 @@ em {
     box-shadow: 0 1px 4px rgba(0,0,0,0.25);
 }
 #other {
-    width: 560px;
+    width: 660px;
     margin: 20px auto;
     padding: 20px;
 }
@@ -51,7 +51,7 @@ em {
 
 #reading-screen {
     display: none;
-    width: 560px;
+    width: 660px;
     height: 322px;
     position: relative;
 }
