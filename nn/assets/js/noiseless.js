@@ -63,7 +63,7 @@ function setButtonEvents() {
 
 function setBackgroundChange() {
   changeBackgroundColor()
-  setInterval(changeBackgroundColor, 300000)
+  setInterval(changeBackgroundColor, 300)
 }
 
 function run() {
