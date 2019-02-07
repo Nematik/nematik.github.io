@@ -45,7 +45,7 @@ em {
     font-family: 'PT Serif';
     font-size: 14px;
     color: #3d3c37;
-    line-height: 1.5em;
+    line-height: 1.2em;
     resize: vertical;
 }
 
@@ -130,7 +130,7 @@ input[type="checkbox"] {
 li {
     margin-left: 30px;
     list-style-type: circle;
-    line-height: 1.5em;
+    line-height: 1.2em;
 }
 
 /* Night mode */
