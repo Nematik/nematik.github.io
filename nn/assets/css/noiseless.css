@@ -8,7 +8,7 @@ body {
   border-color: transparent;
   color: inherit;
   font-family: Raleway;
-  transition: background 300s;
+  transition: background 1s;
 }
 
 img {
