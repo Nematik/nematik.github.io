@@ -1,5 +1,5 @@
 function getRandomColorChannel() {
-  return Math.floor(Math.random() * 48)
+  return Math.floor(Math.random() * 24)
 }
 
 function getRandomColor() {
