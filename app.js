@@ -4,7 +4,7 @@ var readInterval = null,
     readIndex = 0,
     preparedChunks = [],
     prefs = {
-        speed: 200,
+        speed: 90,
         night: false,
         merge: true
     };
