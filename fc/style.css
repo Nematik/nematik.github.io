@@ -1,0 +1,100 @@
+body {
+    font-family: "Helvetica Neue",Helvetica,"Segoe UI",Arial,freesans,sans-serif;
+    margin: 0;
+}
+.Light{
+    background-color: #fafafa;
+}
+.Dark{
+    background-color: #222222;
+    color: white;
+}
+#mainDiv{
+    padding: 0.5em;
+}
+
+a{
+    text-decoration: none;
+}
+a:hover{
+    text-decoration: underline;
+}
+.Light a{
+    color: black;
+}
+.Dark a{
+    color: white;
+}
+
+.Light .borderBelow{
+    border-bottom: medium solid #000000;
+}
+.Dark .borderBelow{
+    border-bottom: medium solid #ffffff;
+}
+
+.settingLabel{
+    margin-right: 1em;
+    font-weight: bold;
+}
+.settingChoice{
+    cursor: pointer;
+    margin-right: 0.5em;
+}
+
+.button{
+    cursor: pointer;
+    min-width: 2em;
+    text-align: center;
+}
+.Light .button:hover{
+    color: red;
+}
+.Dark .button:hover{
+    color: #ff9295;
+}
+
+.Light .settingActive{
+    color: red;
+}
+.Dark .settingActive{
+    color: #ff9295;
+}
+
+td > img{
+    vertical-align: middle;
+}
+.fontContainer{
+    padding: 0.5em;
+    padding-bottom: 3em;
+}
+
+.aa_mode{
+    width: 1em;
+    padding-left: 0.5em;
+    padding-right: 0.5em;
+}
+.Light .aa0{
+    background-color: #ff9ca9;
+}
+.Light .aa1{
+    background-color: #a8ffa5;
+}
+.Dark .aa0{
+    background-color: #8b0709;
+}
+.Dark .aa1{
+    background-color: #00871f;
+}
+.contentContainer{
+
+}
+table{
+    border-collapse: collapse;
+}
+.Light .firstRow{
+    background-color: #e5e5e5;
+}
+.Dark .firstRow{
+    background-color: #5a5a5a;
+}
