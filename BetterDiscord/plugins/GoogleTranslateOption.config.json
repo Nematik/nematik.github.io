@@ -1,0 +1,9 @@
+{
+	"translators": {
+		"useGoogle": true
+	},
+	"settings": {
+		"addTranslateButton": true,
+		"sendOriginalMessage": false
+	}
+}
