@@ -19,6 +19,7 @@
 	--link-color-hover: #fad61a; /* color of all links while hovering over them */
 	--tag-color: #fff; /* text color of tags (bot tags and custom) */
 	--tag-bg: rgba(255, 0, 0, 0.3); /* background of tags (bot tags and custom) */
+	--popup-highlight: #333; /* color of headers and footers of "popouts" (linked to above) */
 	--unread-color: #f00; /* color of unread/selected server indicators. */
 }
 
@@ -84,7 +85,7 @@
     height: 17px;
     width: 17px;
     border: none;
-    margin: 0 3px 3px 0;
+    margin: 0 2px 2px 0;
 }
 .status, .theme-dark .status-2s6iDp, .theme-dark .status-2kJpnA, .theme-light .status-2kJpnA,
 .channel-2QD9_O.selected-1HYmZZ .status-1ibiUI, .channel-2QD9_O .status-1ibiUI {
@@ -106,21 +107,21 @@
 }
 .status-online, .statusOnline-1FlpW_, .online-2S838R {
     background-color: #00ff3c;
-    box-shadow: 0 0 0 3px rgba(0, 255, 60, 0.2);
+    box-shadow: 0 0 0 2px rgba(0, 255, 60, 0.2);
 }
 .alt-3btY0e .item-1GzJrl:nth-of-type(3) {
     background-color: #ffb400;
 }
 .status-idle, .statusIdle-1XoSCz, .idle-3DEnRT {
     background-color: #ffb400;
-    box-shadow: 0 0 0 3px rgba(255, 180, 0, 0.2);
+    box-shadow: 0 0 0 2px rgba(255, 180, 0, 0.2);
 }
 .alt-3btY0e .item-1GzJrl:nth-of-type(4) {
     background-color: #c80000;
 }
 .status-dnd, .statusDnd-2DDKST, .dnd-1_xrcq {
     background-color: #c80000;
-    box-shadow: 0 0 0 3px rgba(200, 0, 0, 0.2);
+    box-shadow: 0 0 0 2px rgba(200, 0, 0, 0.2);
 }
 .status-invisible, .statusInvisible-23hZKw,
 .status-offline, .statusOffline-3R-4Bv, .offline-3qoTek,
@@ -128,5 +129,5 @@
     background-color: var(--popup-highlight);
 }
 .status-offline, .statusOffline-3R-4Bv, .offline-3qoTek {
-    box-shadow: 0 0 0 3px rgba(255, 255, 255, 0.2);
+    box-shadow: 0 0 0 2px rgba(255, 255, 255, 0.2);
 }
