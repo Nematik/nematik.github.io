@@ -9,7 +9,7 @@
 	--dguildchanneltransparency: 0.15;
 	--dmemberlistransparency: 0.1;
 	--daccentcolor: 190,214,239,0.3;
-	--dbackground: url(https://nematik.github.io/background.png);
+	--dbackground: url(https://nematik.github.io/BetterDiscord/themes/background.png);
 	--dbackdrop: rgba(0,0,0,0.4);
 	--dblur: 0px;
 	--vtransparencycolor: var(--transparencycolor,var(--dtransparencycolor));

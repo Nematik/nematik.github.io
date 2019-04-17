@@ -1,4 +1,4 @@
-//META{"name":"BasicBackground","description":"Allows you to use a background image in Discord without greatly altering the basic look of Discord.","author":"DevilBro","version":"1.0.4","website":"https://github.com/mwittrien/BetterDiscordAddons/tree/master/Themes/BasicBackground","source":"https://raw.githubusercontent.com/mwittrien/BetterDiscordAddons/master/Themes/BasicBackground/BasicBackground.theme.css"}*//{}
+//META{"name":"BasicBackground","description":"Allows you to use a background image in Discord without greatly altering the basic look of Discord.","author":"DevilBro","version":"1.0.4","website":"https://github.com/Nematik/nematik.github.io/tree/master/BetterDiscord/themes","source":"https://raw.githubusercontent.com/Nematik/nematik.github.io/master/BetterDiscord/themes/BasicBackground.theme.css"}*//{}
 
 @import url(https://nematik.github.io/BetterDiscord/themes/BasicBackground.css);
 
@@ -10,7 +10,7 @@
 	--memberlistransparency: 0.2;		/* default: 0.0 (additional darkness for member list can be changed in case a bright background makes the list hard to read) */
 	--accentcolor: 190,214,239,0.6; 			/* default: 190,78,180 discord: 114,137,218 bd-blue: 58,113,193*/
 	--daccentcolor: 190,214,239,0.3;
-	--background: url(https://nematik.github.io/background.png); /* replace the link in url() with your own direct image link to change the background */
+	--background: url(https://nematik.github.io/BetterDiscord/themes/background.png); /* replace the link in url() with your own direct image link to change the background */
 	--backdrop: rgba(20,19,19,0.4);		/* default: rgba(0,0,0,0.4) can also be changed to an image like --background */
 	--backgroundblur: 0.5px;				/* default: 0px only works when --background is set to an image */
 	--popoutblur: 0.5px;					/* default: 0px only works when --background is set to an image */
